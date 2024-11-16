@@ -2,7 +2,7 @@
 
 A modern, lightweight clipboard manager for Windows with image support, built using AutoHotkey v2.
 
-![Main Interface](Screenshots/Screenshot%202024-01-04%20221926.png)
+![Main Interface](Screenshots/Capture.PNG)
 
 ## Features
 
@@ -20,11 +20,11 @@ A modern, lightweight clipboard manager for Windows with image support, built us
 <summary>Click to view all screenshots</summary>
 
 ### Main Interface
-![Main Interface](Screenshots/Screenshot%202024-01-04%20221926.png)
+![Main Interface](Screenshots/Capture.PNG)
 
 ### Text and Image Support
-![Text Support](Screenshots/Screenshot%202024-01-04%20222007.png)
-![Image Support](Screenshots/Screenshot%202024-01-04%20222024.png)
+![Text Support](Screenshots/Capture2.PNG)
+![Image Support](Screenshots/Capture2.PNG)
 
 </details>
 
