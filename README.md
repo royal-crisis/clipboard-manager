@@ -1,16 +1,32 @@
 # Windows Clipboard Manager
 
-A powerful and lightweight clipboard manager for Windows built with AutoHotkey v2.
+A modern, lightweight clipboard manager for Windows with image support, built using AutoHotkey v2.
+
+![Main Interface](Screenshots/Screenshot%202024-01-04%20221926.png)
 
 ## Features
 
-- Multi-item clipboard history (stores up to 25 recent items)
+- Multi-item clipboard history (up to 25 items)
 - Support for both text and images
-- Automatic logging of clipboard text to file
-- Image saving to Pictures folder
+- Automatic text logging with timestamps
+- Automatic image saving to Pictures folder
 - Single-click paste functionality
 - Modern UI with hover effects
 - Windows + V hotkey activation
+
+## Screenshots
+
+<details>
+<summary>Click to view all screenshots</summary>
+
+### Main Interface
+![Main Interface](Screenshots/Screenshot%202024-01-04%20221926.png)
+
+### Text and Image Support
+![Text Support](Screenshots/Screenshot%202024-01-04%20222007.png)
+![Image Support](Screenshots/Screenshot%202024-01-04%20222024.png)
+
+</details>
 
 ## Requirements
 
@@ -86,4 +102,15 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## Acknowledgments
 
 - AutoHotkey community for documentation and support
-- Windows API documentation"# clipboard-manager" 
+- Windows API documentation
+- Contributors and users of this project
+
+## Support
+
+If you encounter any issues or have suggestions:
+1. Check the [Issues](../../issues) page
+2. Create a new issue if needed
+3. Join our [Discussions](../../discussions) for questions and ideas
+
+---
+Made with ❤️ by [royal-crisis](https://github.com/royal-crisis)
